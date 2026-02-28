@@ -59,4 +59,5 @@ def main():
     print(notificationMessage)
 
 if __name__ == "__main__":
+    print("Hello")
     main()
